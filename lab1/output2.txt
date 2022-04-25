@@ -1,0 +1,12 @@
+Integer: =1; Size: 2 bytes
+
+Integer: =2; Size: 2 bytes
+
+	float c= Size: 4 bytes
+
+if: keyword
+
+
+else: keyword
+
+String constant: "%d, %d, %f", size: 10 bytes

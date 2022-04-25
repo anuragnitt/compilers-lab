@@ -1,0 +1,22 @@
+< is relational operator
+> is relational operator
+
+
+
+
+= is assignment operator
+= is assignment operator
+
+= is assignment operator
+* is arithmetic operator
+
+< is relational operator
+
+= is assignment operator
+- is arithmetic operator
+
+= is assignment operator
+| is bitwise operator
+
+
+

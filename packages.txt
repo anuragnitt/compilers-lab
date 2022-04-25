@@ -1,0 +1,15 @@
+following packages are needed in linux:
+
+flex, bison, 9base, libfl-dev
+
+how to run
+===========
+lex lexprog.l
+yacc -dvy yaccprog.y
+gcc lex.yy.c y.tab.c -ll -w
+
+OR
+
+flex lexprog.l
+bison -dvy yaccprog.y
+gcc lex.yy.c y.tab.c -ll -w
